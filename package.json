@@ -54,10 +54,6 @@
     "react-native": "0.45.1",
     "react-test-renderer": "16.0.0-alpha.12"
   },
-  "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
-  },
   "jest": {
     "preset": "react-native",
     "modulePathIgnorePatterns": [
